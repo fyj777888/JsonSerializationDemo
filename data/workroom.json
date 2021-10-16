@@ -7,14 +7,6 @@
         {
             "name": "thread",
             "category": "STITCHING"
-        },
-        {
-            "name": "wool",
-            "category": "KNITTING"
-        },
-        {
-            "name": "saw",
-            "category": "WOODWORK"
         }
     ],
     "name": "Alex's workroom"
