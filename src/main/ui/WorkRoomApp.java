@@ -11,7 +11,10 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Scanner;
 
+import ca.ubc.cs.ExcludeFromJacocoGeneratedReport;
+
 // Represents the workroom application
+@ExcludeFromJacocoGeneratedReport
 public class WorkRoomApp {
     private static final String JSON_STORE = "./data/workroom.json";
     private Scanner input;
