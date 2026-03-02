@@ -1,11 +1,11 @@
 {
     "thingies": [
         {
-            "name": "needle",
-            "category": "STITCHING"
+            "name": "a",
+            "category": "WOODWORK"
         },
         {
-            "name": "thread",
+            "name": "c",
             "category": "STITCHING"
         }
     ],
